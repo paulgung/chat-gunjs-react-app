@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# chat-gunjs-react-app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The app look like this:
+![image](https://user-images.githubusercontent.com/98678475/169653633-f6108539-22f9-4230-8191-4142121bb2d9.png)
 
 ## Available Scripts
 
@@ -65,6 +66,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+See the section about [deployment](https://web3.hashnode.com/building-a-decentralized-chat-dapp-with-react-and-gunjs-tutorial) for more information.
